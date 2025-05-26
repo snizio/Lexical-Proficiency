@@ -34,4 +34,22 @@ If you use any of the following contents for your work, we kindly ask you to cit
 }
 ```
 
-> **Abstract:** 
+> **Abstract:** We present a novel evaluation framework de-
+signed to assess the lexical proficiency and
+linguistic creativity of Transformer-based Lan-
+guage Models (LMs). We validate the frame-
+work by analyzing the performance of a set of
+LMs of different sizes, in both mono- and mul-
+tilingual configuration, across tasks involving
+the generation, definition, and contextual usage
+of lexicalized words, neologisms, and nonce
+words. To support these evaluations, we devel-
+oped a novel dataset of lexical entries for the
+Italian language, including curated definitions
+and usage examples sourced from various on-
+line platforms. The results highlight the robust-
+ness and effectiveness of our framework in eval-
+uating multiple dimensions of LMs’ linguistic
+understanding and offers an insight, through
+the assessment of their linguistic creativity, on
+the lexical generalization abilities of LMs.
